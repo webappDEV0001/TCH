@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a609c5d41bb4ab6075fcf77feaedaf3e7329b03e">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a1e31122cc03cfde73b7746301557f02b1e269fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_0b5c9185c15163aed70d2b8c3ee5081e29f086d3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_bf1e65dcbea9cb7b31ad3ffcc18b2155ba4dd7ff\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4c6754e464de9dee5919e9140a712b85e4c69a3">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3077e5585802871bef7e746ef2f5dc7934c1dcc2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_9f0fa4ced45cbc9550d07557818bc27ab0495350\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_ce4d8e7202199ccd6cd53b6c5b21f0902ea4438c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.opentok.android\opentok-android-sdk\2.8.1-REL-1785\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01d7c82ab3c44ab518768321356ae0b5487985d6">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.opentok.android-opentok-android-sdk-2.8.1-REL-1785_4cc26d3a2f987b320eede55fbb7542757ead24c3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_b15bd206d60a3a1e289e6e70b5f7ef80024531c8\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c02861646581ec81d6b4ab3adfc84ccfa99594c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\jong\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-6.1.0_0e06ea75ec31d33b997d427f373322dfa9b42015\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\Working\TCH\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="E:\Android\Working\TCH\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_87d991f8ab5c29f94ba2fa403ef71caf68ecea9a\classes.dex" />
+    </item>
+
+</items>

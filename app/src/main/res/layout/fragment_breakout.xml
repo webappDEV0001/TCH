@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="0.5">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5">
+            <RelativeLayout
+                android:id="@+id/subscriberViewContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/header">
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/publisherViewContainer"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:background="@color/white">
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+        <GridLayout
+            android:id="@+id/otherViewsContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:columnCount="3"
+            android:background="@color/gray_selected">
+
+        </GridLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rightView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:background="@color/dark_gray">
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:background="@color/dark_gray">
+        </WebView>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+
+    </RelativeLayout>
+</LinearLayout>
